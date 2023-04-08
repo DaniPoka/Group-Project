@@ -249,7 +249,7 @@ const AddressForm = () => {
 
     //PASA LA API KEY AL CARGADOR DEL MAPA Y LUEGO LO INICIALIZAMOS EN LA UBICACION ASIGNADA//
     const loader = new Loader({
-        apiKey: "AIzaSyAYTI-q5HByehYZoWOTXhVIoVs20gVpGZw",
+        apiKey: "poner la apikey aca",
         version: "weekly",
     });
     loader.load().then(() => {
