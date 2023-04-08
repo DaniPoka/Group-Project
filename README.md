@@ -2,7 +2,7 @@
 
 # BOOTCAMP FULL STACK MERN
 
-## Proyecto AGShop
+## Proyecto TiendaDojo
 
 AGShop nace con la idea de tener una tienda dentro de un colegio,
 el objetivo es vender utiles e indumentaria a traves de un sistema separado.
@@ -30,6 +30,8 @@ el objetivo es vender utiles e indumentaria a traves de un sistema separado.
 - [Express](https://expressjs.com/es/)
 
 - [Mongoose](https://mongoosejs.com/)
+
+- [JsonWebToken](https://www.npmjs.com/package/jsonwebtoken)
 
 
 
